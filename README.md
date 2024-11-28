@@ -25,4 +25,4 @@ The Banking Application is a Java-based application that allows users to perform
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/BankingApplication.git
+   git clone https://github.com/kothollaGanesh/BankingApplication.git
